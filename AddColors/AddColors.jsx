@@ -40,6 +40,7 @@ const AddColors = ({
         <div className="add-colors-container">
         <></>
         <></>
+        //   tao dang update nahnh mai  sdkjfhjsdfhowedfjwsjkdfhiuowefhoieuwfiehwfbi
             <div className="color-section-card">
                 <div className="section-header">
                     <h5 className="section-title">
