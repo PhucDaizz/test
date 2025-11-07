@@ -38,6 +38,8 @@ const AddColors = ({
 
     return (
         <div className="add-colors-container">
+        <></>
+        <></>
             <div className="color-section-card">
                 <div className="section-header">
                     <h5 className="section-title">
